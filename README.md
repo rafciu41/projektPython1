@@ -1,1 +1,1 @@
-# projektPython1
+temat projektu: text-based adventure/tekstowa przygoda
